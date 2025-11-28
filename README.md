@@ -25,7 +25,7 @@ Here are selected projects demonstrating core system capabilities:
 | :--- | :--- | :--- |
 | **[Minishell](https://github.com/eandres83/minishell)** | **OS Architecture** | A robust Unix shell. Features custom **process management**, signal handling, and pipeline logic without memory leaks. |
 | **[MiniRT](https://github.com/eandres83/minirt)** | **Physics/Graphics** | A Raytracing engine built from scratch. Demonstrates **vector math**, CPU optimization, and light physics simulation. |
-| **[Webserv](https://github.com/eandres83/webserv)** | **Networking** | A high-performance HTTP/1.1 server using **non-blocking I/O multiplexing** (poll) to handle concurrent connections. |
+| **[Webserv](https://github.com/eandres83/websrv)** | **Networking** | A high-performance HTTP/1.1 server using **non-blocking I/O multiplexing** (poll) to handle concurrent connections. |
 | **[KFS](https://github.com/eandres83)** | **Kernel Dev** | *(In Progress)* A custom Kernel implementation focusing on GDT, Paging, and Interrupt Handling. |
 
 ---
