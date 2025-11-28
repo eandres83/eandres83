@@ -13,7 +13,7 @@ My goal is to apply rigorous low-level programming standards (C/Asm) to the **Ae
 * **Core Languages:** C (Expert), C++ (Advanced), x86_64 Assembly.
 * **Systems Engineering:** Linux Kernel Internals, Unix Process API, Memory Allocation logic.
 * **Network & Security:** TCP/IP Protocols, ELF Binary Analysis, Malware Mechanics.
-* **Tools:** GDB, Valgrind, Docker, QEMU, Make, Git.
+* **Tools:** GDB, Valgrind, Docker, QEMU, Make, Git, Vim.
 
 ---
 
