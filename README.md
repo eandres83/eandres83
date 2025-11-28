@@ -32,7 +32,7 @@ Here are selected projects demonstrating core system capabilities:
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eandres83&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eandres83&layout=compact&theme=radical&hide=javascript,html,css)
 
 ---
 *Looking for a kernel/systems engineer? Feel free to reach out.*
