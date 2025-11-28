@@ -32,10 +32,7 @@ Here are selected projects demonstrating core system capabilities:
 
 ### 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eandres83&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eandres83&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eandres83&theme=dark&hide_border=true)
 
 ---
 *Looking for a kernel/systems engineer? Feel free to reach out.*
