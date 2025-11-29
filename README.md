@@ -45,6 +45,7 @@ Selected projects demonstrating capability in **Operating System Construction** 
   <img src="https://img.shields.io/badge/VirtualBox-VM-blue?style=flat&logo=virtualbox" />
   
   <img src="https://img.shields.io/badge/Assembly-x86__64-black?style=flat&logo=intel" />
+  <img src="https://img.shields.io/badge/Vim-Power_User-019733?style=flat&logo=vim&logoColor=white" />
 </p>
 
 ---
