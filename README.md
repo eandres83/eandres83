@@ -19,14 +19,14 @@ My goal is to apply rigorous low-level programming standards (C/Asm) to the **Ae
 
 ### 🚀 Engineering Portfolio
 
-Selected projects demonstrating capability in **Operating System Construction** and **Kernel Development**:
+Selected projects demonstrating capability in **Operating System Construction**, **Assembly**, and **Kernel Development**:
 
 | Project | Domain | Key Engineering Highlights |
 | :--- | :--- | :--- |
 | **[ft_linux](https://github.com/eandres83/ft_linux)** | **OS Architecture** | Built a complete **Linux OS from source** (LFS). Managed cross-compilation toolchains (Binutils/GCC) and manual dependency resolution without package managers. |
 | **[Little Penguin](https://github.com/eandres83/little-penguin-1)** | **Kernel Drivers** | Developed **Linux Kernel Modules**: Character device drivers, USB hotplugging automation, and `debugfs` interfaces for kernel-user interaction. |
+| **[Libasm](https://github.com/eandres83/libasm)** | **x86_64 Assembly** | Re-implemented standard C library functions (`libc`) in pure **Assembly**. Mastered the **System V ABI**, stack alignment, and direct syscall invocation. |
 | **[KFS](https://github.com/eandres83)** | **Kernel Dev** | *(In Progress)* A custom Kernel implementation focusing on x86 bootloading, Global Descriptor Table (GDT), Paging logic, and Interrupt Handling. |
-| **[Minishell](https://github.com/eandres83/minishell)** | **Sys Prog** | A robust Unix shell implementation. Features custom **process management** (fork/exec), signal handling, and pipeline logic without memory leaks. |
 
 ---
 
