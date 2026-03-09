@@ -23,7 +23,7 @@ Selected projects demonstrating capability in **Operating System Construction**,
 
 | Project | Domain | Key Engineering Highlights |
 | :--- | :--- | :--- |
-| **[KFS](https://github.com/eandres83/kfs)** | **Kernel Dev** | Developing a **32-bit Unix-like Kernel** from scratch. Implemented **Multiboot bootloader** (Assembly), **GDT segmentation**, and custom **VGA/Keyboard drivers** without standard libraries. |
+| **[KFS](https://github.com/eandres83/kfs)** | **Kernel Dev** | Developing a **32-bit Unix-like Kernel** from scratch.<br> **Achieved:** Multiboot, Memory Paging & Segmentation (VMM/GDT), Custom Heap (`kmalloc`), and Interrupt Architecture (IDT/PIC).<br> **Next Steps:** Process Scheduler, User-Space Execution, and full Syscall API. |
 | **[ft_linux](https://github.com/eandres83/ft_linux)** | **OS Architecture** | Built a complete **Linux OS from source** (LFS). Managed cross-compilation toolchains (Binutils/GCC) and manual dependency resolution without package managers. |
 | **[Little Penguin](https://github.com/eandres83/little-penguin-1)** | **Kernel Drivers** | Developed **Linux Kernel Modules**: Character device drivers, USB hotplugging automation, and `debugfs` interfaces for kernel-user interaction. |
 | **[ft_malloc](https://github.com/eandres83/ft_malloc)** | **Memory Mgmt** | A high-performance dynamic memory allocator replacing `glibc malloc`. Features **block coalescing** (defragmentation), custom paging via `mmap`, and runtime debugging. |
